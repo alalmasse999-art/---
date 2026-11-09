@@ -1,0 +1,6 @@
+{
+  "name": "دوري المدارس - نظام تسجيل الطلاب وجمع البيانات",
+  "description": "منصة ونموذج تسجيل الطلاب في دوري المدارس لجمع البيانات وإصدار بطاقات اللاعبين الرقمية وإدارة كشوف الفرق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
